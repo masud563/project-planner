@@ -3,14 +3,20 @@
     {
       "id": 1,
       "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
-      "complete": false
+      "details": "this is ",
+      "complete": true
     },
     {
       "id": 2,
       "title": "Make marketing email",
       "details": "Lorem ipsum",
-      "complete": true
+      "complete": false
+    },
+    {
+      "title": "Get a job.",
+      "details": "Start applying now.",
+      "complete": true,
+      "id": 3
     }
   ]
 }
